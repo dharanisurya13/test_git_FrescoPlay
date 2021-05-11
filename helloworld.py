@@ -1,1 +1,5 @@
-print("Helloworld! to git")
+n=input("Are you Hungry?")
+if n=='yes':
+    print("Eat")
+else:
+    print("Read")
